@@ -1,0 +1,23 @@
+.menu-nav {
+    background-color: #05a857;
+    padding: 2px;
+}
+
+.menu-nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-nav li {
+    margin-right: 10px;
+}
+
+.menu-nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-nav a:hover {
+    text-decoration: underline;
+}
